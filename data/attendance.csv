@@ -1,0 +1,25 @@
+record_id,date,session_name,student_id,status,timestamp,is_demo
+ATT-001,2026-10-23,Machine Learning Lec 14,STU-101,Present,2026-10-23 09:05:00,True
+ATT-002,2026-10-23,Machine Learning Lec 14,STU-102,Present,2026-10-23 09:04:12,True
+ATT-003,2026-10-23,Machine Learning Lec 14,STU-103,Present,2026-10-23 09:06:05,True
+ATT-004,2026-10-23,Machine Learning Lec 14,STU-104,Late,2026-10-23 09:16:30,True
+ATT-005,2026-10-23,Machine Learning Lec 14,STU-105,Present,2026-10-23 09:02:18,True
+ATT-006,2026-10-23,Machine Learning Lec 14,STU-106,Absent,2026-10-23 09:30:00,True
+ATT-007,2026-10-23,Machine Learning Lec 14,STU-107,Present,2026-10-23 09:01:45,True
+ATT-008,2026-10-23,Machine Learning Lec 14,STU-108,Present,2026-10-23 09:08:20,True
+ATT-009,2026-10-25,Computer Vision Lec 15,STU-101,Present,2026-10-25 10:02:00,True
+ATT-010,2026-10-25,Computer Vision Lec 15,STU-102,Present,2026-10-25 10:01:10,True
+ATT-011,2026-10-25,Computer Vision Lec 15,STU-103,Absent,2026-10-25 10:30:00,True
+ATT-012,2026-10-25,Computer Vision Lec 15,STU-104,Present,2026-10-25 10:03:40,True
+ATT-013,2026-10-25,Computer Vision Lec 15,STU-105,Present,2026-10-25 10:05:10,True
+ATT-014,2026-10-25,Computer Vision Lec 15,STU-106,Late,2026-10-25 10:18:22,True
+ATT-015,2026-10-25,Computer Vision Lec 15,STU-107,Present,2026-10-25 10:00:55,True
+ATT-016,2026-10-25,Computer Vision Lec 15,STU-108,Absent,2026-10-25 10:30:00,True
+ATT-017,2026-10-27,AI Lab Session 08,STU-101,Present,2026-10-27 11:00:15,True
+ATT-018,2026-10-27,AI Lab Session 08,STU-102,Present,2026-10-27 11:01:45,True
+ATT-019,2026-10-27,AI Lab Session 08,STU-103,Present,2026-10-27 11:04:10,True
+ATT-020,2026-10-27,AI Lab Session 08,STU-104,Present,2026-10-27 11:02:50,True
+ATT-021,2026-10-27,AI Lab Session 08,STU-105,Late,2026-10-27 11:17:20,True
+ATT-022,2026-10-27,AI Lab Session 08,STU-106,Present,2026-10-27 11:03:00,True
+ATT-023,2026-10-27,AI Lab Session 08,STU-107,Present,2026-10-27 11:01:10,True
+ATT-024,2026-10-27,AI Lab Session 08,STU-108,Absent,2026-10-27 11:30:00,True

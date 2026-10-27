@@ -1,0 +1,9 @@
+student_id,name,class_name,email,is_demo,created_at
+STU-101,Aarav Sharma,CS-A 3rd Year,aarav.s@campus.edu,True,2026-10-01 09:00:00
+STU-102,Priya Patel,CS-A 3rd Year,priya.p@campus.edu,True,2026-10-01 09:00:00
+STU-103,Rahul Verma,CS-A 3rd Year,rahul.v@campus.edu,True,2026-10-01 09:00:00
+STU-104,Sneha Kulkarni,CS-A 3rd Year,sneha.k@campus.edu,True,2026-10-01 09:00:00
+STU-105,Ananya Iyer,CS-A 3rd Year,ananya.i@campus.edu,True,2026-10-01 09:00:00
+STU-106,Rohan Mehta,CS-A 3rd Year,rohan.m@campus.edu,True,2026-10-01 09:00:00
+STU-107,Deepa Nair,CS-A 3rd Year,deepa.n@campus.edu,True,2026-10-01 09:00:00
+STU-108,Vikram Singh,CS-A 3rd Year,vikram.s@campus.edu,True,2026-10-01 09:00:00

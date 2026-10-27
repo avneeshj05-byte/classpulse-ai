@@ -1,0 +1,21 @@
+# ClassPulse AI — Core Dependencies
+# Compatible with Python 3.10, 3.11, 3.12+
+
+# Core Web Dashboard & UI
+streamlit>=1.30.0
+
+# Data Processing & Visualization
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Computer Vision (Local Offline Haar Cascade Face Detection)
+opencv-python>=4.8.0
+
+# Audio Processing & Signal Analysis (Built-in WAV & Filter Engine)
+scipy>=1.10.0
+
+# Optional Dependencies (Application works with automatic local fallbacks if omitted):
+# mediapipe>=0.10.0    # Optional advanced face detection
+# librosa>=0.10.0       # Optional extended audio codec support (MP3/OGG)
+# soundfile>=0.12.0     # Optional audio I/O backend
